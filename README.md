@@ -4,7 +4,7 @@ A classic Snake game implemented with HTML, CSS, and JavaScript.
 
 ## How to Play
 
-1. Open `index.html` in your web browser
+1. Open `index.html` (https://raw.githack.com/serge-sotnyk/ws-lessons-snake-game/main/index.html) in your web browser 
 2. Use the arrow keys to control the snake:
    - ↑ (Up Arrow): Move up
    - ↓ (Down Arrow): Move down
